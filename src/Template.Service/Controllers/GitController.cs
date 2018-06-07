@@ -20,6 +20,8 @@ namespace Template.Cadastro.Api.Controllers
             if (d == d)
                 d = d;
 
+            d = "";
+
             return new string[] { "value1", "value2" };
         }
 
