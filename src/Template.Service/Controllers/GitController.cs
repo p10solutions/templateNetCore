@@ -11,16 +11,16 @@ namespace Template.Cadastro.Api.Controllers
     [Route("api/Git")]
     public class GitController : Controller
     {
-        decimal d;
+        //decimal d;
 
         // GET: api/Git
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            if (d == d)
-                d = d;
+            //if (d == d)
+            //    d = d;
 
-            d = "";
+            //d = "";
 
             return new string[] { "value1", "value2" };
         }
