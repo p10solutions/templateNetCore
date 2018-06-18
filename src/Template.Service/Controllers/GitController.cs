@@ -29,6 +29,12 @@ namespace Template.Cadastro.Api.Controllers
         [HttpGet("{id}", Name = "Get")]
         public string Get(int id)
         {
+            var xtatus = true;
+            if (xtatus == true)
+            {
+                xtatus = true;
+            }
+
             return "value";
         }
         

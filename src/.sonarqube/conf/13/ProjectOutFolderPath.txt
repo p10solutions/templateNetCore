@@ -1,0 +1,1 @@
+C:\Template\templateNetCore\src\.sonarqube\out\13

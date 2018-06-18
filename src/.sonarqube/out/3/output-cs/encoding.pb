@@ -1,0 +1,13 @@
+W
+NC:\Template\templateNetCore\src\Template.Domain.Core\Entities\Base\Entidade.csutf-8Y
+PC:\Template\templateNetCore\src\Template.Domain.Core\Entities\Base\Validation.csutf-8R
+IC:\Template\templateNetCore\src\Template.Domain.Core\Entities\IUsuario.csutf-8O
+FC:\Template\templateNetCore\src\Template.Domain.Core\Entities\Teste.csutf-8S
+JC:\Template\templateNetCore\src\Template.Domain.Core\Events\DomainEvent.csutf-8Z
+QC:\Template\templateNetCore\src\Template.Domain.Core\Events\DomainNotification.csutf-8c
+ZC:\Template\templateNetCore\src\Template.Domain.Core\Handlers\DomainNotificationHandler.csutf-8X
+OC:\Template\templateNetCore\src\Template.Domain.Core\Interfaces\IDomainEvent.csutf-8T
+KC:\Template\templateNetCore\src\Template.Domain.Core\Interfaces\IHandler.csutf-8i
+`C:\Template\templateNetCore\src\Template.Domain.Core\Interfaces\Repositories\Base\IRepository.csutf-8[
+RC:\Template\templateNetCore\src\Template.Domain.Core\Interfaces\UoW\IUnitOfWork.csutf-8V
+MC:\Template\templateNetCore\src\Template.Domain.Core\Services\Base\Service.csutf-8

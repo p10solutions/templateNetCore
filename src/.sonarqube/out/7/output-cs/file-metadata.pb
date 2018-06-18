@@ -1,0 +1,10 @@
+I
+GC:\Template\templateNetCore\src\Template.Domain\DTO\PesquisaTemplate.csN
+LC:\Template\templateNetCore\src\Template.Domain\Entities\TemplateEntidade.cs[
+YC:\Template\templateNetCore\src\Template.Domain\Entities\Validacoes\TemplateValidation.cs`
+^C:\Template\templateNetCore\src\Template.Domain\Interfaces\Repositories\ITemplateRepository.csY
+WC:\Template\templateNetCore\src\Template.Domain\Interfaces\Services\ITemplateService.csW
+UC:\Template\templateNetCore\src\Template.Domain\Interfaces\UoW\IUnitOfWorkCadastro.csL
+JC:\Template\templateNetCore\src\Template.Domain\Service\TemplateService.csV
+RC:\Users\5A_PC1\AppData\Local\Temp\.NETStandard,Version=v2.0.AssemblyAttributes.csu
+qC:\Template\templateNetCore\src\Template.Domain\obj\Debug\netstandard2.0\Template.Cadastro.Domain.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+C
+AC:\Template\templateNetCore\src\Template.Teste\TesteIntegrador.csM
+KC:\Template\templateNetCore\src\Template.Teste\ViewModel\AgendaViewModel.csR
+PC:\Template\templateNetCore\src\Template.Teste\ViewModel\AtendimentoViewModel.csY
+WC:\Template\templateNetCore\src\Template.Teste\ViewModel\IniciarAtendimentoViewModel.csW
+UC:\Template\templateNetCore\src\Template.Teste\ViewModel\RetornoAppServerViewModel.csV
+TC:\Template\templateNetCore\src\Template.Teste\ViewModel\TipoAtendimentoViewModel.csU
+QC:\Users\5A_PC1\AppData\Local\Temp\.NETCoreApp,Version=v2.0.AssemblyAttributes.csd
+`C:\Template\templateNetCore\src\Template.Teste\obj\Debug\netcoreapp2.0\Template.Teste.Program.csi
+eC:\Template\templateNetCore\src\Template.Teste\obj\Debug\netcoreapp2.0\Template.Teste.AssemblyInfo.cs

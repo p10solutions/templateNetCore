@@ -1,0 +1,13 @@
+m
+dC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Data\AutenticacaoContext.csutf-8x
+oC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Data\Repositories\UsuarioRepository.csutf-8t
+kC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Data\UoW\UnitOfWorkAutenticacao.csutf-8h
+_C:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Entities\AspNetUser.csutf-8e
+\C:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Entities\Usuario.csutf-8z
+qC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Entities\Validacoes\UsuarioValidation.csutf-8
+vC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Interfaces\Repositories\IUsuarioRepository.csutf-8x
+oC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Interfaces\Services\IUsuarioService.csutf-8{
+rC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Interfaces\UoW\IUnitOfWorkAutenticacao.csutf-8l
+cC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Services\UsuarioService.csutf-8z
+qC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Token\SigningCredentialsConfiguration.csutf-8j
+aC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Token\TokenDescriptor.csutf-8

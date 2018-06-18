@@ -1,0 +1,13 @@
+F
+DC:\Template\templateNetCore\src\Template.Framework\Api\EMetodoApi.csL
+JC:\Template\templateNetCore\src\Template.Framework\Api\ETipoConteudoApi.csF
+DC:\Template\templateNetCore\src\Template.Framework\Api\GatewayAPI.csJ
+HC:\Template\templateNetCore\src\Template.Framework\Api\GatewayRestAPI.csI
+GC:\Template\templateNetCore\src\Template.Framework\Api\IntegradorApi.csF
+DC:\Template\templateNetCore\src\Template.Framework\Data\Paginacao.csJ
+HC:\Template\templateNetCore\src\Template.Framework\Data\PaginacaoNull.csO
+MC:\Template\templateNetCore\src\Template.Framework\Data\PaginacaoOrdenacao.csD
+BC:\Template\templateNetCore\src\Template.Framework\Serializador.csM
+KC:\Template\templateNetCore\src\Template.Framework\UI\DataTablesResponse.csV
+RC:\Users\5A_PC1\AppData\Local\Temp\.NETStandard,Version=v2.0.AssemblyAttributes.csr
+nC:\Template\templateNetCore\src\Template.Framework\obj\Debug\netstandard2.0\Template.Framework.AssemblyInfo.cs

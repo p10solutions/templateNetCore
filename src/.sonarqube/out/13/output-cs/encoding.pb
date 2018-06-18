@@ -1,0 +1,12 @@
+W
+NC:\Template\templateNetCore\src\Template.MVC\Configuracoes\AppConfiguracoes.csutf-8g
+^C:\Template\templateNetCore\src\Template.MVC\Configuracoes\DependencyInjectionConfiguration.csutf-8X
+OC:\Template\templateNetCore\src\Template.MVC\Controllers\Base\BaseController.csutf-8W
+NC:\Template\templateNetCore\src\Template.MVC\Controllers\CadastroController.csutf-8S
+JC:\Template\templateNetCore\src\Template.MVC\Controllers\HomeController.csutf-8@
+7C:\Template\templateNetCore\src\Template.MVC\Program.csutf-8@
+7C:\Template\templateNetCore\src\Template.MVC\Startup.csutf-8R
+IC:\Template\templateNetCore\src\Template.MVC\ViewModels\ErrorViewModel.csutf-8T
+KC:\Template\templateNetCore\src\Template.MVC\ViewModels\RetornoViewModel.csutf-8]
+TC:\Template\templateNetCore\src\Template.MVC\ViewModels\TemplatePaginadoViewModel.csutf-8U
+LC:\Template\templateNetCore\src\Template.MVC\ViewModels\TemplateViewModel.csutf-8

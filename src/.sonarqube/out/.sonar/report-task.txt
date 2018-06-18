@@ -1,0 +1,6 @@
+projectKey=template.5a
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/template.5a
+ceTaskId=AWP0g72GyqAhKF7XKopT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWP0g72GyqAhKF7XKopT

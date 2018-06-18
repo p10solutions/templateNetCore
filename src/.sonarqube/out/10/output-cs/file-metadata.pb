@@ -1,0 +1,15 @@
+f
+dC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Data\AutenticacaoContext.csq
+oC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Data\Repositories\UsuarioRepository.csm
+kC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Data\UoW\UnitOfWorkAutenticacao.csa
+_C:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Entities\AspNetUser.cs^
+\C:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Entities\Usuario.css
+qC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Entities\Validacoes\UsuarioValidation.csx
+vC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Interfaces\Repositories\IUsuarioRepository.csq
+oC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Interfaces\Services\IUsuarioService.cst
+rC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Interfaces\UoW\IUnitOfWorkAutenticacao.cse
+cC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Services\UsuarioService.css
+qC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Token\SigningCredentialsConfiguration.csc
+aC:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Token\TokenDescriptor.csV
+RC:\Users\5A_PC1\AppData\Local\Temp\.NETStandard,Version=v2.0.AssemblyAttributes.cs¨
+£C:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\obj\Debug\netstandard2.0\Template.Cadastro.Infra.CrossCutting.Autenticacao.AssemblyInfo.cs

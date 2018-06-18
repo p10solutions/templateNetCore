@@ -1,0 +1,22 @@
+d
+[C:\Template\templateNetCore\src\Template.Service\Configuracoes\AutenticacaoConfiguration.csutf-8w
+nC:\Template\templateNetCore\src\Template.Service\Configuracoes\AuthorizationHeaderParameterOperationFilter .csutf-8k
+bC:\Template\templateNetCore\src\Template.Service\Configuracoes\DependencyInjectionConfiguration.csutf-8]
+TC:\Template\templateNetCore\src\Template.Service\Configuracoes\RouteConfiguration.csutf-8_
+VC:\Template\templateNetCore\src\Template.Service\Configuracoes\SwaggerConfiguration.csutf-8_
+VC:\Template\templateNetCore\src\Template.Service\Controllers\AutenticacaoController.csutf-8\
+SC:\Template\templateNetCore\src\Template.Service\Controllers\Base\BaseController.csutf-8[
+RC:\Template\templateNetCore\src\Template.Service\Controllers\CadastroController.csutf-8V
+MC:\Template\templateNetCore\src\Template.Service\Controllers\GitController.csutf-8X
+OC:\Template\templateNetCore\src\Template.Service\Controllers\TesteController.csutf-8[
+RC:\Template\templateNetCore\src\Template.Service\Mapper\AutoMapperConfiguration.csutf-8T
+KC:\Template\templateNetCore\src\Template.Service\Mapper\ModelToViewModel.csutf-8T
+KC:\Template\templateNetCore\src\Template.Service\Mapper\ViewModelToModel.csutf-8D
+;C:\Template\templateNetCore\src\Template.Service\Program.csutf-8D
+;C:\Template\templateNetCore\src\Template.Service\Startup.csutf-8V
+MC:\Template\templateNetCore\src\Template.Service\ViewModels\LoginViewModel.csutf-8a
+XC:\Template\templateNetCore\src\Template.Service\ViewModels\TemplatePaginadoViewModel.csutf-8Y
+PC:\Template\templateNetCore\src\Template.Service\ViewModels\TemplateViewModel.csutf-8]
+TC:\Template\templateNetCore\src\Template.Service\ViewModels\TesteDoTesteViewModel.csutf-8^
+UC:\Template\templateNetCore\src\Template.Service\ViewModels\TesteEvenlopeViewModel.csutf-8V
+MC:\Template\templateNetCore\src\Template.Service\ViewModels\TesteViewModel.csutf-8

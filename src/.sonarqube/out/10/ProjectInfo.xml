@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Template.Cadastro.Infra.CrossCutting.Autenticacao</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>0b5ea04e-8a58-4c2c-86ee-168cde9e4770</ProjectGuid>
+  <FullPath>C:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\Template.Cadastro.Infra.CrossCutting.Autenticacao.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Template\templateNetCore\src\.sonarqube\out\10\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Template\templateNetCore\src\Template.Infra.CrossCutting.Autenticacao\bin\Debug\netstandard2.0\Template.Cadastro.Infra.CrossCutting.Autenticacao.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Template\templateNetCore\src\.sonarqube\out\10</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netstandard2.0</TargetFramework>
+</ProjectInfo>

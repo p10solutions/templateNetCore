@@ -1,0 +1,15 @@
+P
+NC:\Template\templateNetCore\src\Template.Domain.Core\Entities\Base\Entidade.csR
+PC:\Template\templateNetCore\src\Template.Domain.Core\Entities\Base\Validation.csK
+IC:\Template\templateNetCore\src\Template.Domain.Core\Entities\IUsuario.csH
+FC:\Template\templateNetCore\src\Template.Domain.Core\Entities\Teste.csL
+JC:\Template\templateNetCore\src\Template.Domain.Core\Events\DomainEvent.csS
+QC:\Template\templateNetCore\src\Template.Domain.Core\Events\DomainNotification.cs\
+ZC:\Template\templateNetCore\src\Template.Domain.Core\Handlers\DomainNotificationHandler.csQ
+OC:\Template\templateNetCore\src\Template.Domain.Core\Interfaces\IDomainEvent.csM
+KC:\Template\templateNetCore\src\Template.Domain.Core\Interfaces\IHandler.csb
+`C:\Template\templateNetCore\src\Template.Domain.Core\Interfaces\Repositories\Base\IRepository.csT
+RC:\Template\templateNetCore\src\Template.Domain.Core\Interfaces\UoW\IUnitOfWork.csO
+MC:\Template\templateNetCore\src\Template.Domain.Core\Services\Base\Service.csV
+RC:\Users\5A_PC1\AppData\Local\Temp\.NETStandard,Version=v2.0.AssemblyAttributes.csv
+rC:\Template\templateNetCore\src\Template.Domain.Core\obj\Debug\netstandard2.0\Template.Core.Domain.AssemblyInfo.cs
