@@ -42,6 +42,81 @@ namespace Template.Cadastro.Api.Controllers
         [HttpPost]
         public void Post([FromBody]string value)
         {
+            var b = 1;
+            var c = 2;
+            var d = 3;
+
+            if (b == 1)
+            {
+                c = 3;
+            }
+            else if (c == 2)
+            {
+                d = 4;
+            }
+            else
+            {
+                d = 5;
+            }
+
+            while (b < 10)
+            {
+                if (b == 1)
+                {
+                    c = 3;
+                }
+                else if (c == 2)
+                {
+                    d = 4;
+                }
+                else
+                {
+                    d = 5;
+                }
+
+                b++;
+            }
+
+            while (c < 10)
+            {
+
+                if (b == 1)
+                {
+                    c = 3;
+                }
+                else if (c == 2)
+                {
+                    d = 4;
+                }
+                else
+                {
+                    d = 5;
+                }
+
+                c++;
+
+            }
+
+
+            while (d < 10)
+            {
+
+                if (b == 1)
+                {
+                    c = 3;
+                }
+                else if (c == 2)
+                {
+                    d = 4;
+                }
+                else
+                {
+                    d = 5;
+                }
+
+                d++;
+            }
+
         }
         
         // PUT: api/Git/5
